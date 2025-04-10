@@ -1,0 +1,14 @@
+# Core dependencies
+numpy==1.24.4
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+
+# Dependencies required by sentence-transformers
+torch==2.1.2
+transformers==4.37.2
+scikit-learn==1.3.2
+scipy==1.11.4
+tokenizers==0.15.2
+tqdm==4.66.2
+requests==2.31.0
+huggingface-hub==0.20.3
